@@ -7,7 +7,7 @@
 ---
 <br>
 
-```Visit My rofile online at: ``` 《《《https://bryanasegaportfolio-website.vercel.app 》》》<br>
+```Visit My profile page at: ``` 《《《https://bryanasegaportfolio-website.vercel.app 》》》<br>
 
 
 ```For all the movie guys check out for your #1 recommender app: ``` 《《 https://movie-recommender-app-aba.onrender.com 》》》<br>
