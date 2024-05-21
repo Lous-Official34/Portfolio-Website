@@ -10,7 +10,7 @@
 ```Visit My rofile online at: ``` 《《《https://bryanasegaportfolio-website.vercel.app 》》》<br>
 
 
-```For all the movie guys check out for your #1 recommender app: ``` 《《《https://aba-movie-recommender-app.onrender.com 》》》<br>
+```For all the movie guys check out for your #1 recommender app: ``` 《《 https://movie-recommender-app-aba.onrender.com 》》》<br>
 
 ```For Hydrogeologists, check out the groundwater predictor model and test your parameters via the link: ``` 《《《https://groundwaterpredictor.pythonanywhere.com 》》》
 
